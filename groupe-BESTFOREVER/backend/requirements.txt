@@ -1,4 +1,6 @@
-requests
+fastapi
+uvicorn[standard]
+langchain
+pydantic
 python-dotenv
-Flask
-Flask-Cors
+langchain-openai
